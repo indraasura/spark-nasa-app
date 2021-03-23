@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* Custom CSS : Edit according to wireframe */
+
+.container{
+  position: relative;
+  height: 100%;
+}
+
+.apod-img{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 10%;
+  width: 550px;
+}
